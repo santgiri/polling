@@ -1,0 +1,1 @@
+Backed service for a Polling application which has been developed using Spring Boot, Spring Security, JWT
